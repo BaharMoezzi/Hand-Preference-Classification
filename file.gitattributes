@@ -1,2 +1,3 @@
 $ cat .gitattributes
-*.* linguist-language=Python
+* linguist-vendored
+*.js linguist-vendored=false
